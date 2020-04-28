@@ -1,0 +1,38 @@
+body{
+    background href="https://cutewallpaper.org/21/gta-vice-city-wallpapers/Wallpaper-Grand-Theft-Auto-V-Sunset-City-HD-Games-5980.jpg";
+    
+    
+}
+
+#container{
+    background-color:whitesmoke;
+    
+    width: 800px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#header {
+    background-color: mediumpurple;
+    color:whitesmoke;
+    text-align: center;
+    padding: 10px;
+}
+#content{
+    padding:10px;
+    margin-right:10px;
+    
+}
+#main{
+    width: 600px;
+    float: right;
+    
+    
+    
+}
+#footer{
+    clear: both;
+    text-align: center;
+    padding: 10px;
+    background-color: lightgray;
+}
